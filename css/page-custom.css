@@ -24,12 +24,12 @@ background:#e3e2e2!important
 header nav ul li p{color:#fff!important}
 
 ::selection {
-    background: #feec00!important;
-    color: #000!important;
+    background: #603a98!important;
+    color: #fff!important;
 }
 
 .h1, h1 {
-    color: #004cfe!important;
+    color: #603a98!important;
 }
 
 .navmenu {
