@@ -1,4 +1,6 @@
-tell about /media/daniella/B/git/Gamlr/gamlr.github.io/img/gametoken.svg
+tell about /media/daniella/B/git/Gamlr/gamlr.github.io/img/gametoken.svg? not before it is launched?
+
+http://gamlr.plasmmer.com/phonemon should redirect (both gamlr subdomain and /phonemon page)
 
 Google Robot font
 Google MT icon font
