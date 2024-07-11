@@ -1,0 +1,59 @@
+commit QmRCgYf3pN1icEEri36ax8EvxFQhQjZprH2cimvw4FnVrE
+Branch: main
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: f3537a5b8a086c803c930e2a995e18e0f31c9c81cc67a64dcdcd28189b6d4b1c254522df67520385b3fe8b6b58c98cfc1434126c8308c86203b8e84751bcb8ce01
+
+------------------------------
+
+Commit CID if including git's SHA1: QmNXJVjasdEmjzSPf8xxyKLiiN62JNbnWP9rqGsKZ6f9cK
+Commit CID if containing only file hashes: QmUixo7LgoN2FKcaJvYArFoq5fkLkpbyDGgR6W1jrCvhPH
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /media/daniella/B/git/Gamlr/Gamlr/Site
+Remote Name: origin
+Remote URL: https://github.com/Gamlr/gamlr.github.io
+
+------------------------------
+
+chown -h 1000:1000 'new/.folderstamp1'
+chmod 0664 'new/.folderstamp1'
+/usr/bin/touch -hcmd "2024-07-11 13:21:37.7998637000 -0300" 'new/.folderstamp1'
+/usr/bin/touch -hcad "2024-07-11 13:22:07.0583301000 -0300" 'new/.folderstamp1'
+chown -h 1000:1000 'new/.folderstamp2'
+chmod 0664 'new/.folderstamp2'
+/usr/bin/touch -hcmd "2024-07-11 13:22:07.6372798000 -0300" 'new/.folderstamp2'
+/usr/bin/touch -hcad "2024-07-11 13:33:23.9593548000 -0300" 'new/.folderstamp2'
+chown -h 1000:1000 'new/done/vectorize.svg'
+chmod 0755 'new/done/vectorize.svg'
+/usr/bin/touch -hcmd "2024-07-11 02:17:42.6637276000 -0300" 'new/done/vectorize.svg'
+/usr/bin/touch -hcad "2024-07-11 13:22:07.1783196000 -0300" 'new/done/vectorize.svg'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_black.png'
+chmod 0755 'press/press-kit/img/logotype-plain_black.png'
+/usr/bin/touch -hcmd "2024-07-11 02:27:57.8396991000 -0300" 'press/press-kit/img/logotype-plain_black.png'
+/usr/bin/touch -hcad "2024-07-11 13:32:28.4254687000 -0300" 'press/press-kit/img/logotype-plain_black.png'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_black.svg'
+chmod 0755 'press/press-kit/img/logotype-plain_black.svg'
+/usr/bin/touch -hcmd "2024-07-11 02:28:05.7951157000 -0300" 'press/press-kit/img/logotype-plain_black.svg'
+/usr/bin/touch -hcad "2024-07-11 13:32:32.6670785000 -0300" 'press/press-kit/img/logotype-plain_black.svg'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_color.png'
+chmod 0755 'press/press-kit/img/logotype-plain_color.png'
+/usr/bin/touch -hcmd "2024-07-11 02:27:37.3871582000 -0300" 'press/press-kit/img/logotype-plain_color.png'
+/usr/bin/touch -hcad "2024-07-11 13:37:32.7783134000 -0300" 'press/press-kit/img/logotype-plain_color.png'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_color.svg'
+chmod 0755 'press/press-kit/img/logotype-plain_color.svg'
+/usr/bin/touch -hcmd "2024-07-11 02:27:43.2162973000 -0300" 'press/press-kit/img/logotype-plain_color.svg'
+/usr/bin/touch -hcad "2024-07-11 13:32:32.7380720000 -0300" 'press/press-kit/img/logotype-plain_color.svg'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_white.png'
+chmod 0755 'press/press-kit/img/logotype-plain_white.png'
+/usr/bin/touch -hcmd "2024-07-11 02:28:23.3906777000 -0300" 'press/press-kit/img/logotype-plain_white.png'
+/usr/bin/touch -hcad "2024-07-11 13:32:39.5174482000 -0300" 'press/press-kit/img/logotype-plain_white.png'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_white.svg'
+chmod 0755 'press/press-kit/img/logotype-plain_white.svg'
+/usr/bin/touch -hcmd "2024-07-11 02:28:29.6625654000 -0300" 'press/press-kit/img/logotype-plain_white.svg'
+/usr/bin/touch -hcad "2024-07-11 13:32:42.0392162000 -0300" 'press/press-kit/img/logotype-plain_white.svg'
+chown -h 1000:1000 'press/press-kit/index.html'
+chmod 0755 'press/press-kit/index.html'
+/usr/bin/touch -hcmd "2024-07-11 13:40:36.7841749000 -0300" 'press/press-kit/index.html'
+/usr/bin/touch -hcad "2024-07-11 13:40:52.8186785000 -0300" 'press/press-kit/index.html'
